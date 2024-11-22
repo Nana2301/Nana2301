@@ -1,6 +1,6 @@
 👋 Hi there, I’m Nana!
 
-💻 My goal is to crush it during my internship and make life easier for my boss.
+💻 My goal is to crush it during my internship and make life easier for my project manager.
 
 🌟 Achieved 3rd place in the Web App Application Competition [Krenovator x Syntech] with my StudyBuddy project but still have a lot to learn.
 
