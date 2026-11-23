@@ -1,13 +1,5 @@
-👋 Hi there, I’m Nana!
+Assalamualaikum and good day.
 
-💻 My goal is to crush it during my internship and make life easier for my project manager.
+My name is Syarifah Irdina Izzati Binti Syed Abdillah Rashid, and I am currently pursuing a Bachelor of Software Engineering with Honours at Universiti Kuala Lumpur Malaysian Institute of Information Technology (UniKL MIIT).\
 
-🌟 Achieved 3rd place in the Web App Application Competition [Krenovator x Syntech] with my StudyBuddy project but still have a lot to learn.
-
-📚 Currently hustling to meet university assignment deadlines without skipping hair wash day
-
-📫 Drop me a message if you’re looking for a chill study buddy or want to discuss any interesting projects!
-<!---
-Nana2301/Nana2301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I built NailPilot, a nail tech management system with bookings, promotions, customer accounts, and an AI Nail Scanner for trying designs on before booking.
